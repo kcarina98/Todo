@@ -1,0 +1,13 @@
+.to-do-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.to-do-form input {
+  border: none;
+  border-bottom: 1px solid rgb(185, 185, 185);
+  padding: 10px 20px;
+  font-size: x-large;
+}
